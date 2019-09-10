@@ -12,7 +12,7 @@ public class Game {
         
         
         //Invoer van de spelers
-        System.out.println("Welcome to Jaspers MiniGames");
+        System.out.println("Welcome to Jasper zijn MiniGames");
         System.out.print("Enter name player one: ");
         String PlayerOne = input.nextLine();
         System.out.print("Enter name player two: ");
